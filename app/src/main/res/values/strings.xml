@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="myName">John Conrad Laxamana</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent luctus felis commodo ipsum lacinia, in elementum odio sollicitudin. Integer vehicula accumsan leo, eu facilisis urna mollis in. Vivamus cursus tempor dui at malesuada. Sed eu fringilla enim. Etiam interdum lacus ac magna congue dapibus. Proin quis condimentum neque. Nulla aliquam dolor eu metus hendrerit aliquet. Donec id lacus libero. Cras pretium leo nec posuere porttitor. Maecenas sit amet lectus posuere, consectetur mauris luctus, consectetur eros. Nulla interdum, quam eget gravida placerat, nibh ipsum suscipit velit, et dignissim massa turpis sit amet purus. Maecenas commodo tristique ultricies. Sed luctus dolor quis turpis tristique tristique. Etiam sollicitudin ex vel sodales volutpat. Donec vitae sem et odio eleifend faucibus vitae tempus nisl. Mauris in ante luctus, hendrerit odio vitae, dignissim neque.
+
+Nulla ultricies consequat tortor et tristique. Etiam vestibulum rhoncus tortor, ac facilisis odio scelerisque sed. Donec velit tortor, pellentesque id metus quis, placerat vulputate lorem. Duis nec volutpat purus. Vivamus mattis odio justo. Nullam eget mollis enim. Aliquam id viverra magna, et porttitor nunc. Fusce eu orci sed lorem porta posuere sed et lectus. Nullam eleifend ligula a aliquam commodo. Nam molestie eleifend leo, sed tempor quam condimentum ac. Phasellus non viverra leo. Sed ultrices elit sed eros fermentum consequat. Aliquam nec lorem sit amet massa elementum tempor a ac arcu. Mauris non sem vitae dui faucibus volutpat non quis est. Sed bibendum mollis ante et scelerisque.
+
+Donec urna augue, aliquet sit amet dapibus eget, efficitur dictum odio. Etiam vel metus eget arcu bibendum porttitor nec non justo. Phasellus finibus euismod lectus eu molestie. Nulla sed quam nulla. Proin pretium libero ut rutrum suscipit. Sed hendrerit eget augue a porta. Aliquam ornare felis sed rhoncus finibus. Quisque id interdum ante, quis vulputate massa. Phasellus fermentum gravida turpis quis pharetra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac interdum tellus, eget vehicula dui. Donec eu hendrerit elit, nec convallis nulla. Duis ut vehicula mauris. Etiam euismod mollis velit ut bibendum.
+
+Sed congue semper consequat. Aenean id lectus auctor, mollis diam eget, iaculis enim. Proin facilisis ornare mauris non finibus. Etiam vitae efficitur tellus. Nam nec porta sapien. Integer sit amet massa sed nibh mattis accumsan. Nunc neque metus, maximus non malesuada in, placerat eu libero. In hac habitasse platea dictumst.
+
+Fusce at aliquam dui. Integer porttitor faucibus libero, sed efficitur libero vulputate ac. Suspendisse luctus risus et mauris tempor dictum. Nunc condimentum aliquet convallis. Quisque vitae maximus est. Quisque vitae nulla vel felis interdum suscipit. Suspendisse non augue laoreet, finibus ex non, viverra velit. Morbi auctor purus non efficitur viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce quis auctor velit, quis euismod ipsum. Suspendisse id eros sed leo rutrum lacinia. Sed quam lacus, malesuada at lorem sed, faucibus gravida ligula. Curabitur ut leo eros.</string>
+    <string name="image">Image Here</string>
+    <string name="nickName">Conrad</string>
+    <string name="button_text">Done</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+</resources>
